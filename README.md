@@ -2,6 +2,8 @@
 
 This repository currently contains additional results tables for a study on oral contraceptive use and perceived weight. When the manuscript is finalized for publication, we will add the R statistical code used in all analyses so that interested colleagues can reproduce our results and/or build on our work.
 
+## R Package Citations
+
 Due to limitations in the number of allowed citations during journal submission, R package citations were removed from the manuscript. Here are the full citations to the R packages we used:
 
 Venables WN, Ripley BD (2002). Modern Applied Statistics with S, Fourth edition. Springer, New York. ISBN 0-387-95457-0, https://www.stats.ox.ac.uk/pub/MASS4/
