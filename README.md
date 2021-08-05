@@ -1,4 +1,6 @@
 # Oral Contraceptive Use and Perceived Weight
 
-This repository will contain the R statistical code used to import the data and conduct all analyses so that interested colleagues can reproduce our results and/or build on our work. 
+This repository contains the R statistical code to fully reproduce the statistical analyses for our manuscript currently under review:
+
+Smith H, Harris J.K. Investigating the Association Between Oral Contraceptive Use and Perceived Weight.
 
